@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//adding two numbers
 int main()
 {
     int first_number, second_number, Sum;
